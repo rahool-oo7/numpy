@@ -37,8 +37,8 @@ NumPy is the foundation for most Python-based data science and ML workflows — 
 ## 👨‍💻 Author
 
 **Ritesh Kumar**  
-GitHub: [@rahool-oo7](https://github.com/rahool-oo7)  
-LinkedIn: [ritesh](https://linkedin.com/in/ritesh-ai) 
+GitHub: [rahool-oo7](https://github.com/rahool-oo7)  
+LinkedIn: [ritesh-ai](https://linkedin.com/in/ritesh-ai) 
 
 ---
 
